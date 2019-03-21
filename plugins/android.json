@@ -9,6 +9,12 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "ca.edumedia.verv0022.reviewr"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "ca.edumedia.verv0022.reviewr"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "ca.edumedia.verv0022.reviewr"
     }
   },
   "dependent_plugins": {}
